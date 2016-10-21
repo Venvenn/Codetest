@@ -1,0 +1,14 @@
+﻿  Wallet.cpp
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\money.h(13): warning C4042: 'coin': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\money.h(13): warning C4042: 'note': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.h(13): warning C4042: 'coin': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.h(13): warning C4042: 'note': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.cpp(8): warning C4042: 'coin': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.cpp(8): warning C4042: 'note': has bad storage class
+  Main.cpp
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\money.h(13): warning C4042: 'coin': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\money.h(13): warning C4042: 'note': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.h(13): warning C4042: 'coin': has bad storage class
+c:\users\eoghan\documents\visual studio 2015\projects\code test\code test\wallet.h(13): warning C4042: 'note': has bad storage class
+  Generating Code...
+  code test.vcxproj -> C:\Users\Eoghan\Documents\Visual Studio 2015\Projects\code test\Debug\code test.exe
